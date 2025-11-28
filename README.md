@@ -25,20 +25,6 @@ Backend: Node.js, Express.js
 Database: MongoDB (Mongoose ODM)
 Tools: Nodemon, dotenv, Git, GitHub
 
-📂 Project Structure
-habit-tracker/
-│
-├── backend/
-│   ├── server.js
-│   ├── models/
-│   ├── routes/
-│   ├── controllers/
-│   └── config/
-│
-└── frontend/
-    ├── src/
-    ├── public/
-    └── package.json
 
 ⚙️ Installation & Setup
 1. Clone the repository
